@@ -46,6 +46,9 @@ Tambien se direño Mockups para la interfaz de telefono donde estos mockups son 
 
 ### Mockup para dispositivos móviles
 Con la evolución del proyecto, se decidió migrar el enfoque hacia una aplicación móvil para aprovechar las ventajas de la portabilidad y la facilidad de acceso desde cualquier lugar. Como parte de esta transición, se diseñaron mockups específicos para la interfaz móvil.
+
 ![imagenAndroid](https://github.com/iancicarelli/ErrorVault/blob/main/Mockups/Android%20Compact%20-%201.png)
+
 ![imagenAndroid2](https://github.com/iancicarelli/ErrorVault/blob/main/Mockups/Android%20Compact%20-%202.png)
+
 ![imagenAndroid3](https://github.com/iancicarelli/ErrorVault/blob/main/Mockups/Android%20Compact%20-%203.png)
