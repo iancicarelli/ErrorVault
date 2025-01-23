@@ -4,8 +4,6 @@ ErrorVault es una herramienta diseñada como un buscador de errores junto con su
 
 La aplicación utilizará las siguientes tecnologías:
 
-* Java: Un lenguaje de programación versátil y ampliamente utilizado, ideal para desarrollar aplicaciones robustas y multiplataforma.
-* Spring Boot: Un marco de desarrollo para Java que simplifica la creación de aplicaciones empresariales, ofreciendo herramientas integradas para construir APIs rápidas y eficientes.
+* Flutter: Un framework de desarrollo de interfaces de usuario creado por Google, que permite construir aplicaciones nativas de alta calidad para iOS y Android desde un solo código base. Flutter destaca por su capacidad de renderizado rápido y diseño adaptable.
+* Dart: El lenguaje de programación utilizado con Flutter. Dart ofrece un rendimiento óptimo y un desarrollo ágil, con soporte nativo para aplicaciones móviles.
 * MongoDB: Una base de datos NoSQL que almacena datos en documentos JSON, lo que permite flexibilidad y escalabilidad en la gestión de información.
-* Vue.js: Un framework progresivo de JavaScript para construir interfaces de usuario dinámicas y reactivas, ideal para mejorar la experiencia del cliente.
-* Node.js: Un entorno de ejecución para JavaScript en el servidor, utilizado para manejar peticiones y operaciones en tiempo real, permitiendo la creación de aplicaciones web eficientes y escalables.
